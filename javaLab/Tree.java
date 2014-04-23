@@ -10,6 +10,7 @@ public class Tree {
 		// TODO Auto-generated method stub
 
 		BinaryNode b = new BinaryNode("d"); 
+		System.out.println(b.toString());
 	}
 
 }
